@@ -1,3 +1,6 @@
+name=prompt("Enter your name: ");
+alert("Hi...."+name);
+
 var no_of_buttons= document.querySelectorAll(".drum").length;
 
 for (var i=0; i<no_of_buttons; i++){
