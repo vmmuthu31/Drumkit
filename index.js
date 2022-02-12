@@ -1,5 +1,5 @@
-name=prompt("Enter your name: ");
-alert("Hi...."+name);
+var naam=prompt("Enter your name: ");
+alert("Hi...."+naam);
 
 var no_of_buttons= document.querySelectorAll(".drum").length;
 
